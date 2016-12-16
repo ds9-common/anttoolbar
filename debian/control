@@ -9,5 +9,7 @@ Homepage: https://addons.mozilla.org/en-US/firefox/addon/video-downloader-player
 Package: xul-ext-anttoolbar
 Architecture: all
 Depends: ${misc:Depends}
+Breaks: anttoolbar
+Replaces: anttoolbar
 Description: ant video downloader -- firefox plugin
  Download videos from YouTube, Dailymotion, etc via firefox
