@@ -1,4 +1,4 @@
-Source: anttoolbar
+Source: xul-ext-anttoolbar
 Section: web
 Priority: optional
 Maintainer: Rohan Garg <rohan@kde.org>
@@ -6,7 +6,7 @@ Build-Depends: cdbs, mozilla-devscripts
 Standards-Version: 3.9.8
 Homepage: https://addons.mozilla.org/en-US/firefox/addon/video-downloader-player/
 
-Package: anttoolbar
+Package: xul-ext-anttoolbar
 Architecture: all
 Depends: ${misc:Depends}
 Description: ant video downloader -- firefox plugin
