@@ -1,0 +1,3 @@
+version=4
+
+https://addons.mozilla.org/en-US/firefox/addon/video-downloader-player/versions/ .*/ant_video_downloader-@ANY_VERSION@-fx.xpi.*
