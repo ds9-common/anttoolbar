@@ -3,4 +3,4 @@ pref("extensions.anttoolbar.display_search_box", false);
 pref("extensions.anttoolbar.firstrun", false);
 pref("extensions.anttoolbar.flvdir", "~/Downloads/Ant Videos");
 pref("extensions.anttoolbar.show_not_found_window", false);
-pref("extensions.anttoolbar.version", "2.4.7.47");
+pref("extensions.anttoolbar.version", "2.4.7.48");
