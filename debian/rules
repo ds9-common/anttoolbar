@@ -1,3 +1,8 @@
 #!/usr/bin/make -f
+
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/mozilla-devscripts/xpi.mk
+include /usr/share/dpkg/pkg-info.mk
+
+build:
+	sed -i "s,@DEB_VERSION_UPSTREAM@,${DEB_VERSION_UPSTREAM},g" debian/xul-ext-anttoolbar.js
